@@ -1,0 +1,19 @@
+1.0 Introduction
+1.1 Project Description
+Our program is designed for people to better understand their personality.
+1.1.1	Background
+Some people have problems; however, they struggle to understand the source of it. Our program will help those people to better identify their personality and explore their inner world.
+Assumptions and Constraints
+There are some assumptions we need to consider. For example, some students already visit the campus mental health support, and our tool can also be used during their visits. Others have problems with classes. In general, our project will be beneficial for everyone who wants to understand their personality. 
+1.2	Overview of the Envisioned System
+1.2.1	Overview
+In the program, user will be asked to answer questions, and every question will have its specific point. At the end, the sum of all the points will be calculated which will have its unique representation of personality.
+1.2.2	System Scope
+The system will have a certain number of personalities in storage, and every one of it will have its unique number of points. What lies outside of the project’s development is the gender and age of the user. This is not included for now, but we are aware of it. 
+2.0	Documents
+2.1	Applicable Documents
+Our program will be written via C language on Terminal; thus, we need Linux or Mac Operation Systems. 
+3.0	Description of Envisioned System		        
+3.1	Needs, Goals and Objectives of Envisioned System
+Our goal is to assist those individuals in gaining a deeper understanding of their personality and exploring their inner world. Some people feel lonely, thanks to this project, an individual will be able to find a similar person who also took this test.
+
